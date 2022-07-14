@@ -4,7 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 #
 from now import testing
-
+#bernie
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hello, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
@@ -24,3 +24,5 @@ if __name__ == '__main__':
     print(my_function(2, 4))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+x =3
