@@ -3,6 +3,9 @@
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
+from now import testing
+
+
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
@@ -16,6 +19,6 @@ if __name__ == '__main__':
     print("Doing Good Today?")
     print("How are you")
     print("Good Morning")
-
+    print(testing)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
